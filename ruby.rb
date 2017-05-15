@@ -43,23 +43,25 @@
 #problem 4-
 
 
-def key_value (array1,array2)
-	empty_array = {}
+# def key_value (array1,array2)
+# 	empty_hash = {}
 
-	key = array1[0].to_sym
+# 	key = array1[0].to_sym
 
-	value = array2[0]
+# 	value = array2[0]
 
-	empty_array[key]=value
+# 	empty_hash[key]=value
 
-puts empty_array
+# puts empty_hash
 
-end
-
-
+# end
 
 
+# key_value(["name"],["chris"])
 
+
+
+# {name =>:chris}
 
 
 
